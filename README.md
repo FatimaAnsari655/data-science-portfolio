@@ -15,7 +15,7 @@ Welcome! This repository is a curated collection of my work in Data Science, Mac
 | Project Link | Goal | Tech Stack | Key Highlight |
 | :--- | :--- | :--- | :--- |
 | [**Coders of Delhi**](./project%201%20Coders%20of%20Delhi%20(data%20science%20)) | Social Media Data Analysis | Pure Python, JSON | Data parsing without Pandas/NumPy |
-| [**Coders of Bangalore**](coders-of-bangalore/) | Advanced Network Analysis | Python, JSON | Mutual friend & recommendation logic |
+| [**Coders of Bangalore**](./coders-of-bangalore) | Advanced Network Analysis | Python, JSON | Mutual friend & recommendation logic |
 
 ---
 
