@@ -15,7 +15,6 @@ Welcome! This repository is a curated collection of my work in Data Science, Mac
 | Project Link | Goal | Tech Stack | Key Highlight |
 | :--- | :--- | :--- | :--- |
 | [**Coders of Delhi**](./coders-of-delhi) | Social Media Data Analysis | Pure Python, JSON | Data parsing without Pandas/NumPy |
-| [**Topic Modeling**](./nlp-project) | Unstructured Text Analysis | NLP, LDA | Extraction of hidden themes in text |
 
 ---
 
