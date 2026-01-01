@@ -15,6 +15,7 @@ Welcome! This repository is a curated collection of my work in Data Science, Mac
 | Project Link | Goal | Tech Stack | Key Highlight |
 | :--- | :--- | :--- | :--- |
 | [**Coders of Delhi**](./project%201%20Coders%20of%20Delhi%20(data%20science%20)) | Social Media Data Analysis | Pure Python, JSON | Data parsing without Pandas/NumPy |
+| [**Coders of Bangalore**](./coders-of-bangalore) | Advanced Network Analysis | Python, JSON | Mutual friend & recommendation logic |
 
 ---
 
@@ -31,6 +32,18 @@ Welcome! This repository is a curated collection of my work in Data Science, Mac
 **📈 Key Learnings:**
 * Deep understanding of Python Dictionaries and Lists.
 * Efficient file handling and JSON parsing.
+
+### 2. Coders of Bangalore (Advanced Analysis) 🏙️
+**📌 Overview:** Building upon the Delhi project, this analysis focuses on the Bangalore tech community. It involves handling larger datasets and implementing more complex relationship mapping.
+
+**🎯 Objective:**
+* Identify common interest clusters among developers.
+* Implement "People You May Know" logic using mutual friend connections.
+* Categorize trending technologies based on user liked pages.
+
+**📈 Key Learnings:**
+* Scalability: Handling larger JSON files with nested structures.
+* Recommendation Logic: Using Set Theory and logic for user networking.
 
 ---
 
