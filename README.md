@@ -48,5 +48,5 @@ Welcome! This repository is a curated collection of my work in Data Science, Mac
 ---
 
 ## 📫 Connect with me
-* **LinkedIn:** [Insert Your Link Here]
-* **Email:** [Insert Your Email Here]
+* **LinkedIn:** https://www.linkedin.com/in/fatima-ansari-5319552b0/
+* **Email:** ansarifatima655@gmail.com
