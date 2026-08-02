@@ -45,8 +45,5 @@ Welcome! This repository is a curated collection of my work in Data Science, Mac
 * Scalability: Handling larger JSON files with nested structures.
 * Recommendation Logic: Using Set Theory and logic for user networking.
 
----
 
-## 📫 Connect with me
-* **LinkedIn:** https://www.linkedin.com/in/fatima-ansari-5319552b0/
-* **Email:** ansarifatima655@gmail.com
+
